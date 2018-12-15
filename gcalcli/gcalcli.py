@@ -58,6 +58,7 @@ from __future__ import print_function, absolute_import
 import sys
 import os
 import re
+import readline
 import shlex
 import time
 import textwrap
